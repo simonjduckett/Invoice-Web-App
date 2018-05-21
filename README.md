@@ -1,2 +1,2 @@
 # Invoice-Web-App
-Invoice builder app built with Javascript
+Web app to help build an invoice
